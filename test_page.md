@@ -1,5 +1,5 @@
 ---
-layout: minimalist
+layout: minimal
 title: Hello World!
 tagline: Tagline
 ---
