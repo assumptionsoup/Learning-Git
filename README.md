@@ -1,3 +1,5 @@
+[To some section](#abcde)
+
 ### Welcome to GitHub Pages.
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
 
@@ -6,6 +8,11 @@ $ cd your_repo_root/repo_name
 $ git fetch origin
 $ git checkout gh-pages
 ```
+
+
+before the line you want to 'link' to. Don't forget the quotation marks around it. Then a markdown link like:
+
+
 
 If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
 
@@ -17,6 +24,16 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 
 ### Authors and Contributors
 You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
+<div id="abcde"/>
 ### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.</div>
+# [To some section](#abcde)
+<a name="abcde"/>This is the fake link</a>
+
+lorem ipsum
+
+lorem ipsum
+
+lorem ipsum
+
+lorem ipsum
